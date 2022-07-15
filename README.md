@@ -2,17 +2,14 @@
   <img align="center" src="inkpx-word-art.png">
 	<br>
 	<br>
-  Welcome to my github profile!
+  Welcome To My Github Profile!
 </h3>
 
-# Projects
+# Project's i work & Volunteer
 
 | My Role       | Project                     | Description   |
 | ------------- | -------------               |---------------|
-| Developer     | [Stuby](https://stuby.org)  | Tutory website project along with a study along discord server               |
+| Developer     | [Stuby](https://stuby.org)  | Tutory website project along with a study together [discord server](discord.gg/university)               |
 | Maintainer    | [Onbeat](https://onbeat.me) | Discord Music Bot               |
 
-# Volunteer
-
-- Soon:tm:
 
