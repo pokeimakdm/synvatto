@@ -5,10 +5,14 @@
   Welcome to my github profile!
 </h3>
 
+# Projects
 
-## jobs
-- Developer [@Stuby](https://stuby.org/)
-- Developer [@Onbeat](https://onbeat.me/)
+| My Role       | Project                     |
+| ------------- | -------------               |
+| Developer     | [Stuby](https://stuby.org)  |
+| Maintainer    | [Onbeat](https://onbeat.me) |
 
-## Projects
+# Volunteer
+
 - Soon:tm:
+
