@@ -7,10 +7,10 @@
 
 # Projects
 
-| My Role       | Project                     |
-| ------------- | -------------               |
-| Developer     | [Stuby](https://stuby.org)  |
-| Maintainer    | [Onbeat](https://onbeat.me) |
+| My Role       | Project                     | Description   |
+| ------------- | -------------               |---------------|
+| Developer     | [Stuby](https://stuby.org)  | Tutory website project along with a study along discord server               |
+| Maintainer    | [Onbeat](https://onbeat.me) | Discord Music Bot               |
 
 # Volunteer
 
